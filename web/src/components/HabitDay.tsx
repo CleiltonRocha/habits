@@ -17,14 +17,15 @@ export function HabitDay({defaultCompleted = 0, amount = 0, date}: HabitDayProps
 
     const [completed, setCompleted] = useState(defaultCompleted)
 
-    const completedPercentage = amount > 0 ? Math.round((completed / amount) * 100):0
-    console.log(completedPercentage)
-    const dayAndMonth = dayjs(date).format('DD/MM')
-    const dayOfWeek = dayjs(date).format('dddd')
-
     function handleCompletedChanged(completed: number) {
         setCompleted(completed)
     }
+
+    const completedPercentage = amount > 0 ? Math.round((completed / amount) * 100): 0
+    const dayAndMonth = dayjs(date).format('DD/MM')
+    const dayOfWeek = dayjs(date).format('dddd')
+
+    
 
     return(
         <Popover.Root>
