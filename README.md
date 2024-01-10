@@ -74,7 +74,7 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/nlw-setup.git
+$ git clone git@github.com:CleiltonRocha/habits.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd nlw-setup
