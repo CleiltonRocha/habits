@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=nlw&message=setup&color=blueviolet&style=for-the-badge"/>
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top//CleiltonRocha/habits?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/CleiltonRocha/habits?color=blueviolet&logo=TypeScript&logoColor=white&style=for-the-badge">
   <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/CleiltonRocha/habits?color=blueviolet&style=for-the-badge">
 </p>
 <br>
@@ -58,8 +58,8 @@ Ao clicar em algum dos dias as informações dele serão exibidas, por exemplo: 
 
 Abaixo mostro um vídeo de como funciona a aplicação mobile. Basicamente são as mesmas funcionalidades da web.
 
-<video width="405" height="900" controls>
-  <source src=".github/app-video" type="video/mp4">
+<video>
+  <source src="./.github/app-video.mov" type="video/mp4">
 </video>
 
 ## Instalação
