@@ -58,9 +58,10 @@ Ao clicar em algum dos dias as informações dele serão exibidas, por exemplo: 
 
 Abaixo mostro um vídeo de como funciona a aplicação mobile. Basicamente são as mesmas funcionalidades da web.
 
-<video>
-  <source src="./.github/app-video.mov" type="video/mp4">
-</video>
+
+
+https://github.com/CleiltonRocha/habits/assets/101843883/211638b3-a96e-454c-8ce9-fd09d1dd0088
+
 
 ## Instalação
 
