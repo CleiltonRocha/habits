@@ -77,7 +77,7 @@ Além disso é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone git@github.com:CleiltonRocha/habits.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw-setup
+$ cd habits
 
 # Vá para a pasta server
 $ cd server
@@ -99,10 +99,10 @@ $ yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/nlw-setup.git
+$ git clone git@github.com:CleiltonRocha/habits.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw-setup
+$ cd habits
 
 # Vá para a pasta web
 $ cd web
@@ -124,10 +124,10 @@ $ yarn dev
 
 ```bash
 # Clone este repositório
-$ git clone git@github.com:MrRioja/nlw-setup.git
+$ git clone git@github.com:CleiltonRocha/habits.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd nlw-setup
+$ cd habits
 
 # Vá para a pasta mobile
 $ cd mobile
